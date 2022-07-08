@@ -1,7 +1,7 @@
-##Introduction to this respository
+## Introduction to this respository
 This github respository is set up to hold my profolio website 
 
-##Author
+## Author
 Chau Tim Lok Justin 
 
 I am currently a year 2 student studying physics and computer science at The Univeristy of Hong Kong. 
