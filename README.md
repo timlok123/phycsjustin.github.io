@@ -1,5 +1,5 @@
 ## Introduction to this respository
-This github respository is set up to hold my profolio website 
+This github respository is set up to hold my portfolio website 
 
 ## Author
 Chau Tim Lok Justin 
